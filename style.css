@@ -1,0 +1,88 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    min-height: 100vh;
+    background-color: #0F0F0F;
+    color: #44CC44;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.text-field {
+    display: flex;
+    gap: 16px;
+}
+
+input {
+    width: 160px;
+    height: 80px;
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 42px;
+    font-family: 'Noto Sans Mono', monospace;
+    border: 2px solid #44CC44;
+    background-color: #0F0F0F;
+    color: #44CC44;
+    border-radius: 8px;
+}
+
+input::placeholder {
+    color: #44CC44;
+    opacity: 0.2;
+}
+
+button {
+    width: 160px;
+    height: 80px;
+    box-sizing: border-box;
+    font-size: 42px;
+    font-family: 'Noto Sans Mono', monospace;
+
+}
+
+button {
+    width: 160px;
+    height: 80px;
+    box-sizing: border-box;
+    font-size: 42px;
+    font-family: 'Noto Sans Mono', monospace;
+    
+}
+
+button {
+    width: 160px;
+    height: 80px;
+    box-sizing: border-box;
+    font-size: 42px;
+    font-family: 'Noto Sans Mono', monospace;
+    
+}
+
+button {
+    padding: 8px 16px;
+    width: 200px;
+    height: 60px;
+    box-sizing: border-box;
+    font-size: 28px;
+    font-family: 'Noto Sans Mono', monospace;
+    border: 2px solid #44CC44;
+    border-radius: 8px;
+    background-color: #0F0F0F;
+    color: #44CC44;
+}
+
+button:hover {
+    background-color: #44CC44;
+    color: #0F0F0F;
+    cursor: pointer;
+}
