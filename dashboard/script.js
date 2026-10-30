@@ -28,6 +28,7 @@ function verify() {
 }
 
 function success() {
-  document.getElementById("heading").textContent = "Good job";
-  document.getElementById("subheading").textContent = "You saved finf!";
+  document.getElementById("heading").textContent = "Super!";
+  document.getElementById("subheading").textContent = "Ihr habt das Universitätsnetz gerettet!";
+  document.getElementById("description").textContent = "";
 }

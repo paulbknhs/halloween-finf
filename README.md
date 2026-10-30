@@ -18,8 +18,12 @@ node server.js
 
 ## Aufgabe 3
 
-- QR Code der nur aus einem Winkel scanbar ist
+- Einer von vielen QR-Codes
 
 ## Aufgabe 4
 
 - 
+
+## Story
+
+Oh nein, der Fachrat Informatik hat breaking changes auf den main branch geforcepusht! Jetzt liegt das gesamte Universitätsnetz lahm. Das ganze Universitätsnetz? Nein, ein von unbeugsamen Daten besetzter Prozess hört nicht auf dem Zusammenbruch Widerstand zu leisten. Um die Katastrophe rückgängig zu machen, müssen die mutigen Informatik-Studis die letzten vier Bytes des Commithashes wiederfinden. Irgendwie muss das doch herauszufinden sein! Haltet die Augen offen und prüft eure Eingabe an dem Laptop.
