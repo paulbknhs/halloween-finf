@@ -18,6 +18,8 @@ node server.js
 
 ## Aufgabe 3
 
-- UV Stift?
+- QR Code der nur aus einem Winkel scanbar ist
 
+## Aufgabe 4
 
+- 
